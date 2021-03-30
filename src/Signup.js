@@ -8,7 +8,6 @@ class Signup extends Component {
 			const iOS =
           !!navigator.platform &&
           /iPad|iPhone|iPod|MacIntel/.test(navigator.platform);
-          alert(navigator.platform)
         if (iOS) {
           window.location.href =
             "https://apps.apple.com/us/app/embassy-influencer-marketplace/id1544463192";
