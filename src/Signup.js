@@ -15,7 +15,7 @@ class Signup extends Component {
           window.location.href =
             "https://play.google.com/store/apps/details?id=io.embassysocial";
         }
-      }, 3000);
+      }, 2000);
 		}
 	}
 
